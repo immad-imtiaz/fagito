@@ -20,3 +20,5 @@ Now you can install and use any version of node required for a particular app
     ```
 - To use a particular version
     ```sh
+    nvm use 10.0
+    ```
